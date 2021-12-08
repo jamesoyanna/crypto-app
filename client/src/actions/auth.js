@@ -13,6 +13,7 @@ import {
   ADD_USERLIST,
   USERLIST_ERROR,
 } from './types';
+import { dispatch } from 'd3-dispatch';
 
 // Add user's coinlist (first time)
 export const addUserList = () => async (dispatch) => {
@@ -103,9 +104,9 @@ export const loginUser = (formData) => async (dispatch) => {
 
 // Logout
 export const logoutUser = () => (dispatch) => {
-  dispatch({ type: LOGOUT });
-  dispatch(removeUserCoins());
-};
+ dispatch({ type: LOGOUT });
+ dispatch(removeUserCoins());
+}
 
 // Clear Errors
 export const clearErrors = () => (dispatch) => dispatch({ type: CLEAR_ERRORS });
