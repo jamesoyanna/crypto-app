@@ -20,9 +20,6 @@ Cryptocurrencies dashboard developed with the MERN stack that fetches updated da
 
 - [Git](https://git-scm.com) is used for version control.
 
-## Authors
-
-- **Nicolás Leiva Büchi** - [nicolasleivab](https://github.com/nicolasleivab)
 
 ## License
 
