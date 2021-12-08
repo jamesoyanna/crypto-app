@@ -5,8 +5,9 @@ Cryptocurrencies dashboard developed with the MERN stack that fetches updated da
 - Follow the recent performance of the top performant coins
 - Compare the performance of different coins in several visualizations
 - Sign up and keep your favorite coins in a watchlist
-<br /><br />
-<p align="center"><a href="https://crypto-performance.herokuapp.com/">Live</a></p>
+
+![crypto](https://user-images.githubusercontent.com/26815113/145129686-464c2e28-2c6d-4dd1-9e1a-c9616f9c0b35.JPG)
+
 
 ## Built With
 
